@@ -1,0 +1,29 @@
+body {
+    background: #e5dcdc;
+}
+
+.App {
+    text-align: center;
+}
+
+.App ul {
+    list-style: none;
+}
+
+.App ul li {
+    width: 30px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px 10px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.App button {
+    border: 1px solid #427ca4;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+    background-color: #215460;
+
+}
